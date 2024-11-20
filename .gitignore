@@ -1,0 +1,8 @@
+.*
+.*/
+build
+compile_commands.json
+*.log
+*.txt
+log
+!.gitignore
